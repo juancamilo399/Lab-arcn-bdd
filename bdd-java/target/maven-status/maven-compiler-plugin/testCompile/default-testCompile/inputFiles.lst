@@ -1,3 +1,4 @@
 /workspaces/Lab-arcn-bdd/bdd-java/src/test/java/com/eci/myproject/AppTest.java
 /workspaces/Lab-arcn-bdd/bdd-java/src/test/java/com/eci/myproject/runners/TestRunner.java
+/workspaces/Lab-arcn-bdd/bdd-java/src/test/java/com/eci/myproject/steps/ContextMenuSteps.java
 /workspaces/Lab-arcn-bdd/bdd-java/src/test/java/com/eci/myproject/steps/SearchSteps.java

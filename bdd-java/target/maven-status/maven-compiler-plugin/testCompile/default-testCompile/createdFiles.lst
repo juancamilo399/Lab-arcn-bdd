@@ -1,3 +1,4 @@
-com/eci/myproject/AppTest.class
 com/eci/myproject/steps/SearchSteps.class
+com/eci/myproject/steps/ContextMenuSteps.class
+com/eci/myproject/AppTest.class
 com/eci/myproject/runners/TestRunner.class

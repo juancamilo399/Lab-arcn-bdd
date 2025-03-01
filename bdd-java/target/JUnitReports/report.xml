@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="5.719">
-    <testcase classname="Google Search" name="Search for a term" time="5.285">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="5.795">
+    <testcase classname="Context Menu on The Internet Website" name="User right-clicks on the box and sees an alert" time="2.684">
+        <system-out><![CDATA[Given I am on the context menu page.........................................passed
+When I right-click on the box...............................................passed
+Then I should see an alert with the message "You selected a context menu"...passed
+And I should be able to accept the alert....................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Google Search" name="Search for a term" time="2.901">
         <system-out><![CDATA[Given I am on the Google search page........................................passed
 When I search for "GitHub"..................................................passed
 Then I should see "GitHub" in the results...................................passed
