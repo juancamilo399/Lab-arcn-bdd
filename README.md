@@ -9,6 +9,11 @@ El taller consiste en resolver un problema planteado en la web de the [internet]
 * [Java 8](https://www.java.com/) - Tecnología para el desarrollo de aplicaciones
 * [Cucumber](https://cucumber.io/) - Herramienta de automatizacion
 
+## Escenario de prueba
+
+El escenario de prueba que se desarrolla en este laboratorio lleva como nombre [context_menu](https://the-internet.herokuapp.com/context_menu) este consiste en poder probar
+la interaccion con un menu desplegable donde una alerta se dispara.
+
 ## Instrucciones de construcción y ejecución
 
 1. **Construir la aplicación**: Desde la carpeta bdd-java compilar la aplicación
